@@ -201,6 +201,59 @@ Expected Return = 11.9%
 
 So, according to the Fama and French five-factor model, you would expect an 11.9% return on your investment in Blue Tech Innovations. 🏢📈
 
-### Conclusion 🌟
+### Key Studies in the Field 📚
 
-Factor models like CAPM and the Fama and French models help investors understand and predict stock returns by considering various factors beyond just market risk. By using these models, investors can better manage risk, construct more robust portfolios, and make informed investment decisions. 📈💡
+#### 1. Jegadeesh and Titman (2002) 📖
+
+**Contribution**:
+- **Momentum Profits**: Jegadeesh and Titman revisited their seminal 1993 work, which first documented momentum profits—the phenomenon where stocks that have performed well in the past continue to perform well in the future.
+- **Challenges to Rational Expectations**: They argue against the notion that momentum can be explained by rational expectations alone. Rational expectations imply that investors use all available information to make decisions, and that differences in returns should be due to risk factors. Jegadeesh and Titman found that these differences are not large enough to account for momentum returns.
+  
+**Key Insight**:
+- **Unconditional Expectations**: Unconditional expectations (i.e., expected returns calculated without considering changing conditions or additional factors) are insufficient to explain the observed momentum profits. They suggest that momentum cannot be fully understood without considering time-varying risks and behavioral factors.
+
+#### 2. Grundy and Martin (2001) 📖
+
+**Contribution**:
+- **Systematic Risk vs. Residuals**: Grundy and Martin analyzed the sources of momentum profits by breaking down stock returns into systematic risk (risk related to overall market movements) and idiosyncratic risk (risk unique to individual stocks).
+- **Momentum in Residuals**: They concluded that momentum is driven entirely by the residual returns—returns that cannot be explained by common risk factors like those in the Fama and French models.
+
+**Key Insight**:
+- **Factor Model Misspecification**: The study suggests that the inability of factor models to explain momentum might be due to misspecification. By using a model with rolling-window betas (which assume that the relationship between a stock and market factors changes slowly), they showed that important variations in expected returns were attributed to residuals, implying that momentum is a feature of stock-specific returns rather than market-wide risks.
+
+#### 3. Chordia and Shivakumar (2002) 📖
+
+**Contribution**:
+- **Decomposition of Returns**: This study decomposed stock returns into two components: one that is forecastable using macroeconomic variables (like interest rates, inflation) and one that is an unforecastable shock.
+- **Predictable Component**: They found that the predictable component of returns, driven by macroeconomic variables, captures momentum returns better than the residual component.
+
+**Key Insight**:
+- **Macroeconomic Predictors**: The study conjectured that the predictable component of stock returns proxies for dynamic factor risk premia. This means that changes in economic conditions might be driving changes in risk and return profiles, suggesting that momentum returns are linked to these broader economic factors.
+- **Untested Conjecture**: While they suggested that macroeconomic variables could explain momentum through dynamic risk premia, this conjecture was left untested, leaving a gap that the current paper aims to address.
+
+#### 4. Kelly et al. (2019) 📖
+
+**Contribution**:
+- **Instrumented Principal Components Analysis (IPCA)**: Kelly and colleagues introduced a sophisticated method called IPCA to estimate latent factors (hidden factors not directly observable) and factor exposures using observable firm characteristics (like size, profitability).
+- **Dynamic Factor Models**: They demonstrated that conditional factor models, which account for changing risk exposures over time, provide a better explanation for stock returns than traditional static models.
+
+**Key Insight**:
+- **Improved Risk and Return Explanation**: The study showed that conditional factor models significantly improve the understanding of the cross-section of risk and return compared to traditional models like the Fama and French factors with rolling betas. This means that by using IPCA, they could capture the dynamic nature of risk exposures, explaining a larger portion of momentum and reversal phenomena.
+
+### Simplified Summary
+
+1. **Jegadeesh and Titman (2002)**: 📖✨
+   - **Findings**: Momentum profits exist and are not fully explained by rational expectations.
+   - **Key Insight**: Unconditional expectations can't account for the momentum effect.
+
+2. **Grundy and Martin (2001)**: 📖🔍
+   - **Findings**: Momentum is driven by stock-specific (idiosyncratic) returns.
+   - **Key Insight**: Traditional models misspecify factors, attributing momentum to residuals.
+
+3. **Chordia and Shivakumar (2002)**: 📖📊
+   - **Findings**: Macroeconomic variables can predict momentum returns.
+   - **Key Insight**: Predictable components related to economic conditions are key drivers, though this idea was not fully tested.
+
+4. **Kelly et al. (2019)**: 📖🧩
+   - **Findings**: Conditional factor models using IPCA explain risk and returns better than static models.
+   - **Key Insight**: Dynamic models capture time-varying risk exposures, providing a better explanation for momentum and reversal.
