@@ -116,7 +116,7 @@ The **Capital Asset Pricing Model (CAPM)** is a foundational concept in finance 
 
 The formula for CAPM is:
 
-\[ \text{Expected Return} = R_f + \beta \times (R_m - R_f) \]
+Expected Return = R_f + \beta * (R_m - R_f)
 
 Where:
 - \( R_f \) is the **Risk-Free Rate**: The return on a risk-free investment, typically government bonds. Think of it as the interest you earn on a savings account that's guaranteed by the bank.
@@ -134,10 +134,10 @@ Imagine you are considering investing in a company called **Tech Innovators**.
 
 Using the CAPM formula, the expected return for Tech Innovators would be:
 
-\[ \text{Expected Return} = 2\% + 1.5 \times (8\% - 2\%) \]
-\[ \text{Expected Return} = 2\% + 1.5 \times 6\% \]
-\[ \text{Expected Return} = 2\% + 9\% \]
-\[ \text{Expected Return} = 11\% \]
+Expected Return = 2\% + 1.5 * (8\% - 2\%)
+Expected Return = 2\% + 1.5 * 6\% \]
+Expected Return = 2\% + 9\% 
+Expected Return = 11\%
 
 So, according to CAPM, you would expect an 11% return on your investment in Tech Innovators. 📈
 
@@ -160,13 +160,13 @@ Let’s take another company, **Green Energy Corp**. Here’s how the three-fact
 
 Using the Fama and French three-factor model, the expected return for Green Energy Corp would be:
 
-\[ \text{Expected Return} = R_f + \beta_{\text{Mkt}} \times (R_m - R_f) + \beta_{\text{SMB}} \times SMB + \beta_{\text{HML}} \times HML \]
+Expected Return = R_f + \beta_{\text{Mkt}} * (R_m - R_f) + \beta_{\text{SMB}} * SMB + \beta_{\text{HML}} * HML 
 
-\[ \text{Expected Return} = 2\% + 1.2 \times 6\% + 0.8 \times 2\% + 0.5 \times 3\% \]
+Expected Return = 2\% + 1.2 * 6\% + 0.8 * 2\% + 0.5 * 3\% 
 
-\[ \text{Expected Return} = 2\% + 7.2\% + 1.6\% + 1.5\% \]
+Expected Return = 2\% + 7.2\% + 1.6\% + 1.5\%
 
-\[ \text{Expected Return} = 12.3\% \]
+Expected Return = 12.3\% 
 
 So, according to the Fama and French three-factor model, you would expect a 12.3% return on your investment in Green Energy Corp. 🌿📈
 
@@ -189,15 +189,15 @@ Consider **Blue Tech Innovations**, another hypothetical company. Here’s how t
 
 Using the five-factor model, the expected return for Blue Tech Innovations would be:
 
-\[ \text{Expected Return} = R_f + \beta_{\text{Mkt}} \times (R_m - R_f) + \beta_{\text{SMB}} \times SMB + \beta_{\text{HML}} \times HML + \beta_{\text{RMW}} \times RMW + \beta_{\text{CMA}} \times CMA \]
+Expected Return = R_f + \beta_{\text{Mkt}} \times (R_m - R_f) + \beta_{\text{SMB}} * SMB + \beta_{\text{HML}} * HML + \beta_{\text{RMW}} * RMW + \beta_{\text{CMA}} * CMA 
 
 Assuming SMB is 2%, HML is 3%, RMW is 4%, and CMA is 1%:
 
-\[ \text{Expected Return} = 2\% + 1.2 \times 6\% + 0.6 \times 2\% + (-0.3) \times 3\% + 0.7 \times 4\% + (-0.4) \times 1\% \]
+Expected Return = 2% + 1.2 * 6% + 0.6 * 2% + (-0.3) * 3% + 0.7 * 4% + (-0.4) * 1%
 
-\[ \text{Expected Return} = 2\% + 7.2\% + 1.2\% - 0.9\% + 2.8\% - 0.4\% \]
+Expected Return = 2%+ 7.2% + 1.2% - 0.9% + 2.8% - 0.4%
 
-\[ \text{Expected Return} = 11.9\% \]
+Expected Return = 11.9%
 
 So, according to the Fama and French five-factor model, you would expect an 11.9% return on your investment in Blue Tech Innovations. 🏢📈
 
