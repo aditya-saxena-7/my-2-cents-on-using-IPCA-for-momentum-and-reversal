@@ -1,26 +1,18 @@
 ### Findings During My Time at WorldQuant
 
-During my tenure as a quantitative researcher at WorldQuant, I delved into the fascinating phenomena of momentum and reversal in financial markets. These concepts, integral to many trading strategies, are pivotal for understanding how past returns can predict future performance. Here's a simplified breakdown of my research findings, intended for beginners and fresh graduates in the field of quantitative finance.
+As a quantitative researcher at WorldQuant, I studied momentum and reversal in financial markets using the Instrumented Principal Component Analysis (IPCA) model. These concepts, essential for many trading strategies, help understand how past returns can predict future performance. Here is a simplified breakdown of my research findings for beginners and recent graduates in quantitative finance.
 
 ### Table of Contents
 
-1. **Introduction**
-2. **Detailed Sections**
-   - Introduction
-   - Literature Review
-   - Methodology
-   - Model Development
-   - Results Discussion
-   - Conclusion
-3. **Key Takeaways**
+1. 
 
 ---
 
-**Abstract:**
+**Quick Overview:**
 
 Stock momentum and long-term reversal are phenomena where past stock returns predict future returns and risk exposures. This study uses a conditional factor pricing model to analyze these phenomena, revealing that time-varying risk compensation significantly influences momentum and reversal returns. By using instrumented principal components analysis (IPCA), the study estimates factors with changing loadings based on observable firm characteristics. The results show that the variation in risk exposures explains a large portion of momentum and long-term reversal returns, offering stronger predictions than traditional models.
 
-**Simplified Explanation:**
+**Common Terminologies Used:**
 
 - **Momentum**: Stocks that performed well in the past tend to keep performing well in the short term.
 - **Reversal**: Stocks that performed well over a longer period may eventually underperform.
@@ -28,7 +20,7 @@ Stock momentum and long-term reversal are phenomena where past stock returns pre
 - **IPCA**: A technique to identify underlying factors affecting stock performance based on observable traits of companies.
 - **Findings**: The study found that changes in risk can explain why some stocks continue to perform well or poorly, offering better predictions than older models.
 
-### Terminologies in Layman's Terms
+### Terminologies (Simplified)
 
 - **Momentum**: Imagine your favorite sports team winning game after game; they have momentum. Similarly, in finance, if a stock has been performing well, it tends to keep doing well for a while.
 - **Reversal**: Think of a rubber band stretched too far; eventually, it snaps back. In finance, if a stock does very well or very poorly for a long time, it might reverse direction.
