@@ -18,10 +18,6 @@ During my tenure as a quantitative researcher at WorldQuant, I delved into the f
 
 ---
 
-### Abstract Explanation
-
-The abstract of the research paper outlines the core findings and methods used to understand momentum and reversal. Here's a simplified version:
-
 **Abstract:**
 
 Stock momentum and long-term reversal are phenomena where past stock returns predict future returns and risk exposures. This study uses a conditional factor pricing model to analyze these phenomena, revealing that time-varying risk compensation significantly influences momentum and reversal returns. By using instrumented principal components analysis (IPCA), the study estimates factors with changing loadings based on observable firm characteristics. The results show that the variation in risk exposures explains a large portion of momentum and long-term reversal returns, offering stronger predictions than traditional models.
@@ -42,4 +38,3 @@ Stock momentum and long-term reversal are phenomena where past stock returns pre
 - **Conditional Betas**: This is about understanding how much a stock's performance is linked to the market and how this link changes over time.
 - **Expected Returns**: The profit you expect to make from an investment.
 - **IPCA (Instrumented Principal Components Analysis)**: A fancy way to figure out what hidden factors (like secret ingredients) are driving stock performance, using observable characteristics (like company size, profitability).
-
