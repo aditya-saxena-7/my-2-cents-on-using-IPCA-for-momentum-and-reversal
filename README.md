@@ -5,16 +5,14 @@ During my tenure as a quantitative researcher at WorldQuant, I delved into the f
 ### Table of Contents
 
 1. **Introduction**
-2. **Abstract Explanation**
-3. **Terminologies in Layman's Terms**
-4. **Detailed Sections**
+2. **Detailed Sections**
    - Introduction
    - Literature Review
    - Methodology
    - Model Development
    - Results Discussion
    - Conclusion
-5. **Key Takeaways**
+3. **Key Takeaways**
 
 ---
 
