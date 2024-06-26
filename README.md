@@ -4,7 +4,8 @@ As a quantitative researcher at WorldQuant, I studied momentum and reversal in f
 
 ### Table of Contents
 
-1. 
+1. Introduction
+2. (Past Returns Predict Betas)[https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Past%20Returns%20Predict%20Betas.md]
 
 ---
 
