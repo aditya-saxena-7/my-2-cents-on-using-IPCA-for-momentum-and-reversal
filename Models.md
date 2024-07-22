@@ -233,3 +233,12 @@ Think of these models like different ways to predict a student’s future academ
 1. **Traditional Momentum Signal**: Looks at the student’s average grades over the past year (excluding the most recent month) to predict future performance. If the student has consistently high grades, they are likely to continue performing well.
 2. **Model-Based Predictor**: Considers not just past grades but also how different factors (like participation in extracurricular activities, time spent studying, etc.) influence the student’s performance. This provides a more detailed prediction.
 3. **Residual Momentum**: Focuses on the student’s performance in areas not explained by traditional metrics (like unexpected improvements or strengths in unmeasured skills), assuming these unexplained factors will continue to drive their success.
+
+### Table of Contents
+
+1. [Introduction](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Introduction.md)
+2. [Past Returns Predict Betas](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Past%20Returns%20Predict%20Betas.md)
+3. [Models](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Models.md)
+4. [Can a Conditional Model Explain Momentum and Reversals?](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Can%20a%20Conditional%20Model%20Explain%20Momentum%20and%20Reversals%3F.md)
+5. [Robustness and Further Analysis](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Robustness%20and%20Further%20Analysis.md)
+6. [Conclusion](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Conclusion.md)
