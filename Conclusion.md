@@ -73,3 +73,12 @@ Appendix A provides additional details on the methodologies and statistical tech
 ### Summary 🌟
 
 The **Conclusion** and **Appendix A** of the study provide a comprehensive overview of the main findings, their implications, and detailed methodological insights. The conclusion highlights the robustness and economic significance of the IPCA model in explaining momentum and reversal phenomena. Appendix A ensures transparency and replicability by detailing the data, statistical techniques, and model specifications. Together, they offer valuable insights for investors, researchers, and practitioners in the field of finance. 📊🔍
+
+### Table of Contents
+
+1. [Introduction](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Introduction.md)
+2. [Past Returns Predict Betas](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Past%20Returns%20Predict%20Betas.md)
+3. [Models](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Models.md)
+4. [Can a Conditional Model Explain Momentum and Reversals?](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Can%20a%20Conditional%20Model%20Explain%20Momentum%20and%20Reversals%3F.md)
+5. [Robustness and Further Analysis](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Robustness%20and%20Further%20Analysis.md)
+6. [Conclusion](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Conclusion.md)
