@@ -41,15 +41,6 @@ By stripping out exposure to other priced factors from the model, the study show
 
 ---
 
-### Terminologies in Layman's Terms
-
-- **Momentum**: Think of it like a winning streak in sports. If a stock has been performing well recently, it's likely to keep performing well in the short term. 🌟
-- **Reversal**: Imagine a rubber band that's been stretched too far—it eventually snaps back. In finance, if a stock does very well or very poorly for a long time, it might reverse direction. 🔄
-- **Factor Model**: Like using different ingredients (factors) to predict how a recipe (stock return) will turn out. These factors could be anything from company size to recent performance. 🍲
-- **Conditional Betas**: Understanding how much a stock's performance is linked to the market and how this link changes over time. 📈
-- **Expected Returns**: The profit you expect to make from an investment. 💰
-- **IPCA (Instrumented Principal Components Analysis)**: A method to figure out hidden factors driving stock performance, using observable traits of companies. 🔍
-
 ### Factor Models in Finance 📊
 
 **Factor Models** are tools used by investors to understand and predict the returns of stocks and other securities. These models identify underlying factors that drive the performance of an investment. Think of it like cooking a recipe—different ingredients (factors) combine to create the final dish (stock return). 🌟
