@@ -132,42 +132,6 @@ Expected Return = 11\%
 
 So, according to CAPM, you would expect an 11% return on your investment in Tech Innovators. 📈
 
-### Fama and French Three-Factor Model 📊
-
-The Fama and French Three-Factor Model expands on CAPM by adding two more factors to better explain stock returns. These factors are:
-
-1. **Market Risk (Mkt-Rf)**: Same as in CAPM, it captures the overall market risk.
-2. **Size Factor (SMB - Small Minus Big)**: This factor accounts for the tendency of smaller companies (small-cap) to outperform larger companies (large-cap). It is calculated as the difference in returns between small-cap and large-cap stocks.
-3. **Value Factor (HML - High Minus Low)**: This factor accounts for the tendency of value stocks (stocks with high book-to-market ratios) to outperform growth stocks (stocks with low book-to-market ratios). It is calculated as the difference in returns between value and growth stocks.
-
-### Real-World Example of the Three-Factor Model 🌐
-
-Let’s take another company, **Green Energy Corp**. Here’s how the three-factor model might be applied:
-
-1. **Market Risk (Mkt-Rf)**: The same as above, let’s assume a 6% market risk premium and a 2% risk-free rate.
-2. **Size Factor (SMB)**: Green Energy Corp is a small company. Historical data shows that small companies outperform large ones by 2% on average.
-3. **Value Factor (HML)**: Green Energy Corp is a value stock. Historical data shows that value stocks outperform growth stocks by 3% on average.
-4. **Beta (β)**: Let’s assume Green Energy Corp has a market beta of 1.2, a size beta of 0.8, and a value beta of 0.5.
-
-Using the Fama and French three-factor model, the expected return for Green Energy Corp would be:
-
-Expected Return = R_f + \beta_{\text{Mkt}} * (R_m - R_f) + \beta_{\text{SMB}} * SMB + \beta_{\text{HML}} * HML 
-
-Expected Return = 2\% + 1.2 * 6\% + 0.8 * 2\% + 0.5 * 3\% 
-
-Expected Return = 2\% + 7.2\% + 1.6\% + 1.5\%
-
-Expected Return = 12.3\% 
-
-So, according to the Fama and French three-factor model, you would expect a 12.3% return on your investment in Green Energy Corp. 🌿📈
-
-### Fama and French Five-Factor Model 📈
-
-The Fama and French Five-Factor Model adds two more factors to the three-factor model to further explain stock returns:
-
-1. **Profitability Factor (RMW - Robust Minus Weak)**: This factor captures the return difference between stocks with high profitability (robust) and those with low profitability (weak). More profitable companies tend to have better returns.
-2. **Investment Factor (CMA - Conservative Minus Aggressive)**: This factor captures the return difference between companies that invest conservatively and those that invest aggressively. Companies that are conservative in their investments (spend less on capital expenditures) tend to outperform those that invest more aggressively.
-
 ### Real-World Example of the Five-Factor Model 🏢
 
 Consider **Blue Tech Innovations**, another hypothetical company. Here’s how the five-factor model might be applied:
