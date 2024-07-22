@@ -313,3 +313,12 @@ Where:
 **Scenario**:
 - **Traditional Momentum Strategy**: In 2008, a portfolio heavily invested in high-momentum financial stocks suffered a drawdown of 50% as the financial crisis unfolded and market conditions reversed.
 - **IPCA-Based Momentum Strategy**: The same portfolio, constructed using the IPCA model, might have dynamically reduced exposure to high-risk financial stocks as volatility increased, resulting in a smaller drawdown of 30%.
+
+### Table of Contents
+
+1. [Introduction](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Introduction.md)
+2. [Past Returns Predict Betas](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Past%20Returns%20Predict%20Betas.md)
+3. [Models](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Models.md)
+4. [Can a Conditional Model Explain Momentum and Reversals?](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Can%20a%20Conditional%20Model%20Explain%20Momentum%20and%20Reversals%3F.md)
+5. [Robustness and Further Analysis](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Robustness%20and%20Further%20Analysis.md)
+6. [Conclusion](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Conclusion.md)
