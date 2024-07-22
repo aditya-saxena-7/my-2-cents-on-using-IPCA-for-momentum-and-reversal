@@ -147,4 +147,11 @@ Just like how Athlete A’s consistent performance places them in the top tier, 
 **Economic Significance**:
 - **Beta Increase and Returns**: While the increase in beta (0.18) indicates a higher risk, it only explains a small portion (1.1 percentage points) of the momentum premium (8%-9%). This suggests that factors beyond market beta must be considered to fully capture momentum profits. Thus, the conditional CAPM, which only considers time-varying market beta, falls short.
 
+### Table of Contents
 
+1. [Introduction](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Introduction.md)
+2. [Past Returns Predict Betas](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Past%20Returns%20Predict%20Betas.md)
+3. [Models](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Models.md)
+4. [Can a Conditional Model Explain Momentum and Reversals?](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Can%20a%20Conditional%20Model%20Explain%20Momentum%20and%20Reversals%3F.md)
+5. [Robustness and Further Analysis](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Robustness%20and%20Further%20Analysis.md)
+6. [Conclusion](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Conclusion.md)
