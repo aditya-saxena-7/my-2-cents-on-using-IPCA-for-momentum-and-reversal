@@ -558,3 +558,12 @@ r_{A,M37} = 0.01 + 0.12 + 0.30 + 0.12 + 0.0325 = 0.5945 \approx 5.95\%
 \]
 
 This detailed example covers the calculation of dynamic betas, the role of latent factors in the IPCA model, the estimation of the Gamma matrix, and the calculation of regression coefficients using OLS.
+
+### Table of Contents
+
+1. [Introduction](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Introduction.md)
+2. [Past Returns Predict Betas](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Past%20Returns%20Predict%20Betas.md)
+3. [Models](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Models.md)
+4. [Can a Conditional Model Explain Momentum and Reversals?](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Can%20a%20Conditional%20Model%20Explain%20Momentum%20and%20Reversals%3F.md)
+5. [Robustness and Further Analysis](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Robustness%20and%20Further%20Analysis.md)
+6. [Conclusion](https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal/blob/main/Conclusion.md)
